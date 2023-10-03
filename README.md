@@ -9,3 +9,6 @@ One of the key challenges in wine quality prediction is the need for a large and
 Once a model has been trained, it can be used to predict the quality of new wines. This can be done by inputting the characteristics of a new wine into the model and receiving a predicted quality rating. The model can also be used to identify the most important factors that contribute to the quality of a wine, which can be useful for wine producers and sellers when making decisions about which grapes to plant, which regions to focus on, and which winemaking techniques to use. 
 # Conclusion :
 In conclusion, machine learning can be a powerful tool for wine quality prediction. By training a model on a large and diverse dataset of wine characteristics and quality ratings, a machine learning algorithm can learn to predict the quality of new wines based on their characteristics. This can be useful for wine producers and sellers, as it can help them to identify the best wines to produce and sell, and also for consumers, as it can help them to find high-quality wines to purchase.
+
+# Note :
+If the code do not work it can also be viewed form the following website by copying the github url https://github.com/RANJANA20-eng/Bharat-Intern_Task2/blob/main/Wine%20Quality%20Prediction.ipynb
